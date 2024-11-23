@@ -78,4 +78,5 @@ class APPConst {
   static const int maximumHeaderValue = 400;
 
   static const double largeCircleRadius = 60;
+  
 }
