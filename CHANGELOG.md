@@ -1,0 +1,1 @@
+# UU.COOL Wallet Changelog
