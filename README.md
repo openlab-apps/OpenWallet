@@ -1,6 +1,6 @@
-# About UU.COOL Wallet
+# About OpenWallet
 
-Welcome to UU.COOL Wallet, the open-source wallet crafted for the decentralized future of finance. Our mission is to provide users with a secure and versatile solution supporting a wide range of cryptocurrencies, including Openverse, Bitcoin, Bitcoin Cash, Litecoin, Dogecoin, Dash, Ethereum, Tron, Ripple, Solana, Cardano, Cosmos, Polkadot, and Kusama. Our roadmap includes cross-platform support across Windows, macOS, web, and extensions for Chrome, Brave, and Mozilla Firefox.
+Welcome to OpenWallet, the open-source wallet crafted for the decentralized future of finance. Our mission is to provide users with a secure and versatile solution supporting a wide range of cryptocurrencies, including Openverse, Bitcoin, Bitcoin Cash, Litecoin, Dogecoin, Dash, Ethereum, Tron, Ripple, Solana, Cardano, Cosmos, Polkadot, and Kusama. Our roadmap includes cross-platform support across Windows, macOS, web, and extensions for Chrome, Brave, and Mozilla Firefox.
 
 ## Networks
 
@@ -50,7 +50,7 @@ Welcome to UU.COOL Wallet, the open-source wallet crafted for the decentralized 
 ### Litecoin
 
 - **Features:** Support for Litecoin transactions.
-- **Highlights:** Dive into the silver to Bitcoin's gold with UU.COOL Wallet, managing Litecoin transactions effortlessly with confidence.
+- **Highlights:** Dive into the silver to Bitcoin's gold with OpenWallet, managing Litecoin transactions effortlessly with confidence.
 - Allows for multiple account transactions.
 
 ### Ripple
@@ -128,28 +128,28 @@ Added Web3 support for select networks. Check [mrt_wallet_web3_js_examples](http
 
 ## Decentralized, Secure, and Open Source
 
-At UU.COOL Wallet, we believe in the power of decentralization. Our commitment to decentralization is at the core of our design philosophy, providing you with full control over your assets. Your private keys remain in your hands, ensuring the highest level of security.
+At OpenWallet, we believe in the power of decentralization. Our commitment to decentralization is at the core of our design philosophy, providing you with full control over your assets. Your private keys remain in your hands, ensuring the highest level of security.
 
 We take pride in being fully open source. You can explore and audit our code on [GitHub](https://github.com/mrtnetwork/mrtwallet) under the Apache License 2.0. This commitment to transparency means that every line of code is accessible, empowering the community to verify the security and integrity of our wallet.
 
 
 ## Platform Support
 
-UU.COOL Wallet is available on multiple platforms to provide a seamless experience:
+OpenWallet is available on multiple platforms to provide a seamless experience:
 [generated_plugin_registrant.h](mrt_wallet%2Fwindows%2Fflutter%2Fgenerated_plugin_registrant.h)
 
-- **Windows:** Enjoy the convenience of UU.COOL Wallet on your desktop. Our Windows version brings the power of decentralized finance to your fingertips.
+- **Windows:** Enjoy the convenience of OpenWallet on your desktop. Our Windows version brings the power of decentralized finance to your fingertips.
 
-- **Macos:** Enjoy the convenience of UU.COOL Wallet on your desktop. Our Mac version brings the power of decentralized finance to your fingertips.
+- **Macos:** Enjoy the convenience of OpenWallet on your desktop. Our Mac version brings the power of decentralized finance to your fingertips.
 
-- **Web:** Access your wallet from any web browser with our web platform. Manage your assets with ease, all while enjoying the security and privacy UU.COOL Wallet provides.
+- **Web:** Access your wallet from any web browser with our web platform. Manage your assets with ease, all while enjoying the security and privacy OpenWallet provides.
 
 - **Browser Extensions:** Integrate seamlessly with your browser using our extensions for Chrome, Brave, and Mozilla Firefox, enhancing your web-based financial interactions.
 
 
 ## Community-Driven Development
 
-UU.COOL Wallet is not just a wallet; it's a community-driven project. We welcome collaboration, feedback, and contributions from the community. Together, we're building a decentralized future that prioritizes security, privacy, and inclusivity.
+OpenWallet is not just a wallet; it's a community-driven project. We welcome collaboration, feedback, and contributions from the community. Together, we're building a decentralized future that prioritizes security, privacy, and inclusivity.
 
 ## Build Instructions
 
@@ -157,7 +157,7 @@ Clone the repository and build using Flutter:
 
 - **WEB**
 
- you can view the web version of UU.COOL Wallet at <https://mrtnetwork.github.io/mrtwallet/>.
+ you can view the web version of OpenWallet at <https://mrtnetwork.github.io/mrtwallet/>.
 
 ```shell
 gh repo clone mrtnetwork/mrtwallet
@@ -215,5 +215,5 @@ Please file feature requests and bugs in the issue tracker.
 
 Join us on our mission to redefine the landscape of decentralized finance. Contribute to our open-source project on [GitHub](https://github.com/mrtnetwork/mrtwallet) 
 
-Thank you for choosing UU.COOL Wallet as your trusted partner in the world of decentralized finance.
+Thank you for choosing OpenWallet as your trusted partner in the world of decentralized finance.
 
