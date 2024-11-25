@@ -36,18 +36,18 @@
     "git-widget-placeholder": "main",
     "io.flutter.reload.alreadyRun": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/wangchenyang/Desktop/mrtwallet-main/mrt_wallet/web",
+    "last_opened_file_path": "/Users/wangchenyang/Desktop/mrtwallet-main/mrt_wallet/browser",
     "settings.editor.selected.configurable": "AndroidSdkUpdater",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mrt_wallet/web" />
+      <recent name="$PROJECT_DIR$/mrt_wallet/browser" />
+      <recent name="$PROJECT_DIR$/mrt_wallet/browser/icons" />
+      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/docs/icons" />
       <recent name="$PROJECT_DIR$/mrt_wallet/web/icons" />
-      <recent name="$PROJECT_DIR$/mrt_wallet/test" />
-      <recent name="$PROJECT_DIR$/mrt_wallet/build/web/icons" />
-      <recent name="$PROJECT_DIR$/mrt_wallet/macos/Runner/Assets.xcassets/AppIcon.appiconset" />
     </key>
   </component>
   <component name="RunManager">
