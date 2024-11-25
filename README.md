@@ -130,7 +130,7 @@ Added Web3 support for select networks. Check [mrt_wallet_web3_js_examples](http
 
 At OpenWallet, we believe in the power of decentralization. Our commitment to decentralization is at the core of our design philosophy, providing you with full control over your assets. Your private keys remain in your hands, ensuring the highest level of security.
 
-We take pride in being fully open source. You can explore and audit our code on [GitHub](https://github.com/mrtnetwork/mrtwallet) under the Apache License 2.0. This commitment to transparency means that every line of code is accessible, empowering the community to verify the security and integrity of our wallet.
+We take pride in being fully open source. You can explore and audit our code on [GitHub](https://github.com/openlab-apps/OpenWallet) under the Apache License 2.0. This commitment to transparency means that every line of code is accessible, empowering the community to verify the security and integrity of our wallet.
 
 
 ## Platform Support
