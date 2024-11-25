@@ -213,7 +213,7 @@ Please file feature requests and bugs in the issue tracker.
 
 ## Get Involved
 
-Join us on our mission to redefine the landscape of decentralized finance. Contribute to our open-source project on [GitHub](https://github.com/mrtnetwork/mrtwallet) 
+Join us on our mission to redefine the landscape of decentralized finance. Contribute to our open-source project on [GitHub](https://github.com/openlab-apps/OpenWallet) 
 
 Thank you for choosing OpenWallet as your trusted partner in the world of decentralized finance.
 
