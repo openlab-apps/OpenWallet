@@ -123,7 +123,7 @@ Welcome to OpenWallet, the open-source wallet crafted for the decentralized futu
 
 ## Web3
 
-Added Web3 support for select networks. Check [mrt_wallet_web3_js_examples](https://github.com/openlab-apps/Openwallet_web3_js_examples-main) repository for instructions on sending Web3 transactions to the wallet.
+Added Web3 support for select networks. Check [open_wallet_web3_js_examples](https://github.com/openlab-apps/open_wallet_web3_js_examples) repository for instructions on sending Web3 transactions to the wallet.
 
 
 ## Decentralized, Secure, and Open Source
