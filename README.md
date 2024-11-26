@@ -160,7 +160,7 @@ Clone the repository and build using Flutter:
  you can view the web version of OpenWallet at <https://mrtnetwork.github.io/mrtwallet/>.
 
 ```shell
-gh repo clone mrtnetwork/mrtwallet
+gh repo clone openlab-apps/OpenWallet.git
 cd mrt_wallet
 dart run web_builder -web --release --clean
 ```
@@ -168,7 +168,7 @@ dart run web_builder -web --release --clean
 - **Chrome/Brave extention**
 
 ```shell
-gh repo clone mrtnetwork/mrtwallet
+gh repo clone openlab-apps/OpenWallet.git
 cd mrt_wallet
 dart run web_builder -extention --release --clean
 ```
@@ -176,7 +176,7 @@ dart run web_builder -extention --release --clean
 - **Firefox extention**
 
 ```shell
-gh repo clone mrtnetwork/mrtwallet
+gh repo clone openlab-apps/OpenWallet.git
 cd mrt_wallet
 dart run web_builder -extention --mozila --release --clean
 ```
@@ -184,7 +184,7 @@ dart run web_builder -extention --mozila --release --clean
 - **Windows**
 
 ```shell
-gh repo clone mrtnetwork/mrtwallet
+gh repo clone openlab-apps/OpenWallet.git
 cd mrt_wallet
 flutter pub get
 flutter build windows --release
@@ -193,7 +193,7 @@ flutter build windows --release
 - **Macos**
 
 ```shell
-gh repo clone mrtnetwork/mrtwallet
+gh repo clone openlab-apps/OpenWallet.git
 cd mrt_wallet
 flutter pub get
 flutter build macos --release
