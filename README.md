@@ -157,8 +157,6 @@ Clone the repository and build using Flutter:
 
 - **WEB**
 
- you can view the web version of OpenWallet at <https://mrtnetwork.github.io/mrtwallet/>.
-
 ```shell
 gh repo clone openlab-apps/OpenWallet.git
 cd mrt_wallet
